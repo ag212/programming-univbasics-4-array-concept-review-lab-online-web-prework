@@ -12,7 +12,8 @@ end
 def find_max_value(array)
 x=log10array.length.times { |index|
 if array[index]
-end}
+end
+}
 x
 end
 
