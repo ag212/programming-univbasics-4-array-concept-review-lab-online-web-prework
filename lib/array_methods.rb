@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   counter=0
-  array=[find_element_index]
+  array=[index]
   while array[counter] doputs array[counter]
   counter +=1
 end
